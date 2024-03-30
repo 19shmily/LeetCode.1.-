@@ -26,17 +26,17 @@ public:
     }
 };
 
-int main()
-{
-    Solution_189 test;
-    vector<int>nums;
-    nums.push_back(1);
-    nums.push_back(2);
-    nums.push_back(3);
-    nums.push_back(4);
-    nums.push_back(5);
-    nums.push_back(6);
-
-    test.rotate(nums, 11);
-    return 0;
-}
+//int main()
+//{
+//    Solution_189 test;
+//    vector<int>nums;
+//    nums.push_back(1);
+//    nums.push_back(2);
+//    nums.push_back(3);
+//    nums.push_back(4);
+//    nums.push_back(5);
+//    nums.push_back(6);
+//
+//    test.rotate(nums, 11);
+//    return 0;
+//}
