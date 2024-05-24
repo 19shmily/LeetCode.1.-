@@ -18,7 +18,7 @@ public:
         : val(_val), left(_left), right(_right), next(_next) {}
 };
 
-class Solution {
+class Solution_117 {
     unordered_map<int,vector<Node*>>mp;
     void work(Node* root, int n)
     {
